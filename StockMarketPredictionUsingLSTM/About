@@ -1,8 +1,4 @@
-Stock market is a probabilistic trading where we can gain and have possibility of loss. Investing in stock market trading might be a risky task. So, we can use algorithmic trading which uses the
-previous trends of a particular stock and help us predicting investing in the stock. 
-
+Stock market is a probabilistic trading where we can gain and have possibility of loss. Investing in stock market trading might be a risky task. So, we can use algorithmic trading which uses the previous trends of a particular stock and help us predicting investing in the stock. 
 Algorithmic trading using machine learning techniques to increase the probability of profit because it uses the technical analysis of stock, price action strategies, seasonal trends and help us to predict which time is better to invest in stocks. So, we will not fall in debts anymore. 
-
-We are developing an algorithm using machine learning and deep learning techniques like SMA (Simple Moving Average), Arima, RNN (Recurrent Neural Network) and LSTM (Long Short-Term Memory) for predictions.
-
-Specifically I found LSTM is better than RNN, Arima. So I implimented LSTM and I have got above 90% good result. 
+Algorithm using machine learning and deep learning techniques like SMA (Simple Moving Average), Arima, RNN (Recurrent Neural Network) and LSTM (Long Short-Term Memory) for predictions. 
+Specifically, I have found LSTM is better than RNN, Arima. So, I implemented LSTM and I have got above 90% good result.
